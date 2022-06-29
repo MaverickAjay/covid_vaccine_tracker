@@ -1,0 +1,21 @@
+{
+	"subscribers": [
+		{
+			"name": "Aravind",
+			"email": "aravindbala1006@gmail.com",
+			"vaccine": "COVAXIN",
+			"dose": 1,
+			"age_group": 18,
+			"district": 571
+		},
+
+		{
+			"name": "Dr.Ramakrishnan",
+			"email": "ssramki@gmail.com",
+			"vaccine": "COVISHIELD",
+			"dose": 1,
+			"age_group": 18,
+			"district": 571
+		}
+	]
+}
