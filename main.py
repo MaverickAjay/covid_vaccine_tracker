@@ -11,8 +11,8 @@ from time import sleep
 
 
 PORT = 465
-SENDER = "vaccinee4youu@gmail.com"
-PASSWORD = 'Maverick#18'
+SENDER = "sender@gmail.com"
+PASSWORD = 'password'
 
 CHECK_INTERVAL = 300
 
